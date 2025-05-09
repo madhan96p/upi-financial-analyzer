@@ -4,7 +4,7 @@ import PyPDF2
 import google.generativeai as genai
 
 # Set up Google Gemini API Key
-GEMINI_API_KEY = "AIzaSyAgO5I6sN-2euuM_ZeomQG-ZVZ2EYqEOA4"
+GEMINI_API_KEY = "ADD API KEY HERE"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Streamlit UI
